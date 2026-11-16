@@ -1,0 +1,6 @@
+[project]
+name = "notebook-scrubber"
+version = "0.1.0"
+description = "Clean Jupyter notebooks by removing saved cell outputs and execution counts while preserving source cells and notebook metadata."
+requires-python = ">=3.10"
+license = "MIT"

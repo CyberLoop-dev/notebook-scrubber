@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title desc">
+<title id="title">Notebook Scrubber icon</title><desc id="desc">Clean notebooks. Keep the story.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+<rect x="12" y="12" width="296" height="196" rx="28" fill="#0b1220" stroke="#38bdf8" stroke-width="3"/>
+<circle cx="160" cy="110" r="66" fill="url(#g)" opacity=".9"/>
+<path d="M118 72h84M118 100h84M118 128h48M118 156h84M95 72l-10 10 10 10" fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="160" cy="110" r="82" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="5 10" opacity=".8"/>
+</svg>
